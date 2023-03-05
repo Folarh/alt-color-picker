@@ -1,4 +1,4 @@
-# fuel
+# color picker assignment
 
 ## Project setup
 ```
